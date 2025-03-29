@@ -38,16 +38,4 @@
   };
   </script>
   
-  <style scoped>
-  .course-details {
-    padding: 40px;
-    text-align: center;
-  }
-  
-  .course-details img {
-    width: 50%;
-    border-radius: 10px;
-    margin: 20px 0;
-  }
-  </style>
   

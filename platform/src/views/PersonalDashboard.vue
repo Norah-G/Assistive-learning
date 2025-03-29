@@ -30,10 +30,5 @@
   };
   </script>
   
-  <style scoped>
-  .dashboard {
-    text-align: center;
-    padding: 20px;
-  }
-  </style>
+ 
 

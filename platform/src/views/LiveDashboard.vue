@@ -80,23 +80,3 @@ export default {
 };
 </script>
 
-<style scoped>
-.dashboard {
-  text-align: center;
-  padding: 20px;
-}
-.chart-container {
-  width: 100%;
-  max-width: 600px;
-  margin: 20px auto;
-}
-button {
-  background-color: #4CAF50;
-  color: white;
-  padding: 10px 15px;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-  margin-top: 20px;
-}
-</style>

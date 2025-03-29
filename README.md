@@ -78,7 +78,6 @@ npm run dev
 ## **License**  
 This project is licensed under the **MIT License**.  
 
-## **Support & Contact**  
-For issues or inquiries, open an issue or contact **[your-email@example.com]**.  
+
 
 ### _Building a future where education is accessible for all!_
